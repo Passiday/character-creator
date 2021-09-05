@@ -6,6 +6,7 @@ import Footer from './components/Footer';
 function App() {
   return (
     <>
+      <div className="horizonPane"></div>
       <CharacterEditor />
       <Footer />
     </>
